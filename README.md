@@ -1,10 +1,25 @@
 # Project Dracoi
 ----------------------
-**Dracoi**: **D**racoi **R**eal **A**RZhu's template for **O**lympiad in **I**nformatics
+**Dracoi** **R**eal **A**RZhu's template for **O**lympiad in **I**nformatics
 Template for OI Competitions in \LaTex
 
-为了广大OIer、特别是金外OIer的切身利益，ARZhu制作了一个信息学竞赛题面模板的 \LaTex 文件。这将省去OI选手出题时word的编排时间并且解决了word的兼容性问题。
+你是否遇到过这样的情况：
+- 比赛的时候，题面特别难看，让你没有心情做题目
+- 自己要出比赛时，纠结于校内OJ的难看
+- 在本机出比赛时，Office Word的兼容性实在不敢恭维
 
-使用方法：由自己的需要，修改代码，添加题目。可以使用网站 https://cn.sharelatex.com/project 创建账号，进行编译生成pdf文档。注意编译命令需要用 \XeTex。
+所以为了广大OIer、特别是金外OIer的切身利益，ARZhu制作了一个信息学竞赛题面模板的 \LaTex 文件。这将省去OI选手出题时word的编排时间并且解决了word的兼容性问题，并且对于会使用 \LaTex 的选手，特别简便、快捷。
 
-如果不会使用 \Latex，可以参考图书[Latex入门](http://product.dangdang.com/23252576.html)，在网上找到pdf文档或者购买图书进行学习。
+使用方法：
+
+1. 在[sharelatex](https://cn.sharelatex.com/project)中 注册账号，新建项目
+2. 将**Project Dracoi**的代码下载下来，并修改 main.tex 的内容，把空的区域修改成为自己的题面
+3. 把本地的 main.tex 上传到在 [sharelatex](https://cn.sharelatex.com/project) 的新建项目中
+4. 在左侧选项中把编译命令改成 XeLaTex，详见下图：
+![Step-1](http://storage1.imgchr.com/kCqoT.png) ![Step-2](http://storage1.imgchr.com/kCOFU.png)
+5. 然后点击“重新编译”，就可以啦
+6. 如果想下载pdf文档，那么直接在“菜单”中下载pdf文档就可以了
+
+当然，如果你不会 \LaTex ，这也不要紧。只要学习 \LaTex ，你就可以上手快乐地编辑文档了。在**Dracoi**中，也有《LaTex入门》（刘海洋著），可以在里面挑选几章进行阅读；如果想深入学习 \LaTex ，也可以去购买图书：[Latex入门](http://product.dangdang.com/23252576.html)。希望你有一个好的用户体验！
+
+Jinhua Foreign Language School, A.R.Zhu 
