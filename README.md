@@ -1,6 +1,6 @@
 # Project Dracoi
 ----------------------
-**Dracoi** **R**eal **A**RZhu's template for **O**lympiad in **I**nformatics
+**Dracoi** **R**eal **A**RZhu's template for **C**ompetitions in **O**lympiad in **I**nformatics
 
 #### Template for OI Competitions in \LaTex
 
