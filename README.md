@@ -4,7 +4,7 @@
 
 **By ARZhu** 项目地址[https://github.com/ARZhu/dracoi](https://github.com/ARZhu/dracoi)
 
-#### Template for OI Competitions in \LaTex
+#### Template for OI Competitions in $\LaTex$
 
 你是否遇到过这样的情况：
 - 比赛的时候，题面特别难看，让你没有心情做题目
@@ -23,7 +23,7 @@
 5. 然后点击“重新编译”，就可以啦
 6. 如果想下载pdf文档，那么直接在“菜单”中下载pdf文档就可以了
 
-当然，如果你不会 \LaTex ，这也不要紧。只要学习 \LaTex ，你就可以上手快乐地编辑文档了。你可以上网查找关于 \Latex 的资料，进行入门学习；如果想深入学习 \LaTex ，也可以去购买图书：[Latex入门](http://product.dangdang.com/23252576.html)。希望你有一个好的用户体验！
+当然，如果你不会 \LaTex ，这也不要紧。只要学习 \LaTex ，你就可以上手快乐地编辑文档了。你可以上网查找关于 $\Latex$ 的资料，进行入门学习；如果想深入学习 $\LaTex$ ，也可以去购买图书：[Latex入门](http://product.dangdang.com/23252576.html)。希望你有一个好的用户体验！
 
 对了，不要忘记点右上角的“Star”，滋磁我们一下吧！！
 
