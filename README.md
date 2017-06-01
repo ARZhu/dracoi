@@ -15,9 +15,8 @@ Template for OI Competitions in \LaTex
 1. 在[sharelatex](https://cn.sharelatex.com/project)中 注册账号，新建项目
 2. 将**Project Dracoi**的代码下载下来，并修改 main.tex 的内容，把空的区域修改成为自己的题面
 3. 把本地的 main.tex 上传到在 [sharelatex](https://cn.sharelatex.com/project) 的新建项目中
-4. 在左侧选项中把编译命令改成 XeLaTex，详见下图：
-
-![Step-1](http://storage1.imgchr.com/kCqoT.png) ![Step-2](http://storage1.imgchr.com/kCOFU.png)
+4. 在左侧选项中把编译命令改成 XeLaTex，详见右图：
+![Step-1](http://storage1.imgchr.com/kCjW4.png) ![Step-2](http://storage1.imgchr.com/kCXYF.png) 
 5. 然后点击“重新编译”，就可以啦
 6. 如果想下载pdf文档，那么直接在“菜单”中下载pdf文档就可以了
 
