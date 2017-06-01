@@ -1,8 +1,8 @@
 # Project Dracoi
 ----------------------
-**Dracoi** **R**eal **A**RZhu's template for **O**lympiad in **I**nformatics
+### **Dracoi** **R**eal **A**RZhu's template for **O**lympiad in **I**nformatics
 
-### Template for OI Competitions in \LaTex
+#### Template for OI Competitions in \LaTex
 
 你是否遇到过这样的情况：
 - 比赛的时候，题面特别难看，让你没有心情做题目
