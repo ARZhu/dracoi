@@ -11,7 +11,7 @@
 - 自己要出比赛时，纠结于校内OJ的难看
 - 在本机出比赛时，Office Word的兼容性实在不敢恭维
 
-所以为了广大OIer、特别是金外OIer的切身利益，ARZhu制作了一个信息学竞赛题面模板的 \LaTex 文件。这将省去OI选手出题时word的编排时间并且解决了word的兼容性问题，并且对于会使用 \LaTex 的选手，特别简便、快捷。
+所以为了广大OIer的切身利益，ARZhu制作了一个信息学竞赛题面模板的 \LaTex 文件。这将省去OI选手出题时word的编排时间并且解决了word的兼容性问题，并且对于会使用 \LaTex 的选手，特别简便、快捷。
 
 使用方法：
 
@@ -27,4 +27,4 @@
 
 对了，不要忘记点右上角的“Star”，滋磁我们一下吧！！
 
-Jinhua Foreign Language School, A.R.Zhu 
+A.R.Zhu 
